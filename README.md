@@ -3,6 +3,7 @@
 
 A telegram bot can bring your audio file and voice message to text (transcribe)!
 
+![](https://raw.githubusercontent.com/karvanpy/AudioTranscribe_bot/main/20220428_131842.jpg)
 
 
 ## Installation
