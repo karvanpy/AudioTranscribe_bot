@@ -1,0 +1,4 @@
+ibm-watson==6.0.0
+pydub==0.25.1
+python-telegram-bot==13.11
+SpeechRecognition==3.8.1
